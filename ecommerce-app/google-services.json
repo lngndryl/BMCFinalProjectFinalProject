@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59100189607",
+    "project_id": "my-ecommerce-app-lanugan",
+    "storage_bucket": "my-ecommerce-app-lanugan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59100189607:android:4f018e2b34f3a043291c82",
+        "android_client_info": {
+          "package_name": "com.flower.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARo_CcsyUPm-OMBnoZwk6OdLwTRqP8MMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
